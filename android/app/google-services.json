@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041118889445",
+    "project_id": "ragadinotificationapp",
+    "storage_bucket": "ragadinotificationapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041118889445:android:35f8b85c3c7651afdcdb0c",
+        "android_client_info": {
+          "package_name": "com.ragadi.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4GLuDySV-CjJNKy8rNj4XFUy8FDU4vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
